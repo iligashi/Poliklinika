@@ -35,8 +35,8 @@ const Contact = () => {
                 </svg>
                 <div className="ml-4">
                   <p className="text-lg font-medium">Phone</p>
-                  <p className="mt-1">+383 44 123 456</p>
-                  <p className="mt-1">+383 49 123 456</p>
+                  <p className="mt-1">+383 48 222 209</p>
+                  <p className="mt-1">+383 49 732 127</p>
                 </div>
               </div>
 
