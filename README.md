@@ -1,6 +1,6 @@
 # Poli Klinika Drenas Website
 
-A modern website for Poli Klinika in Drenas, Kosovo. Built with React and Tailwind CSS.
+A modern website for a Poliklinik. Built with React and Tailwind CSS.
 
 ## Features
 
@@ -91,4 +91,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or concerns, please contact us at info@poliklinika.com 
+For any questions or concerns, please contact us at Ilazgashi258@gmail.com 
+
+## Deploy
+
+https://poliklinikaa.netlify.app/
+username: admin 
+password: admin
