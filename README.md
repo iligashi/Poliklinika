@@ -30,7 +30,7 @@ A modern website for Poli Klinika in Drenas, Kosovo. Built with React and Tailwi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/poliklinika.git
+git clone https://github.com/iligashi/poliklinika.git
 cd poliklinika
 ```
 
