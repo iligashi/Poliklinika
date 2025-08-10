@@ -3,7 +3,7 @@ import React from 'react';
 const stats = [
   { label: 'Years of Experience', value: '15+' },
   { label: 'Satisfied Patients', value: '10,000+' },
-  { label: 'Professional Doctors', value: '25+' },
+  { label: 'Professional Doctors', value: '16+' },
   { label: 'Medical Services', value: '50+' },
 ];
 
@@ -17,7 +17,7 @@ const About = () => {
               About Poli Klinika Drenas
             </h2>
             <p className="mt-3 max-w-3xl text-lg text-gray-500">
-              Founded in 2008, Poli Klinika Drenas has been providing exceptional healthcare services to the community of Drenas and beyond. Our state-of-the-art facility combines modern medical technology with compassionate care to ensure the best possible outcomes for our patients.
+              Founded in 2008, Poli Klinika Drenas has been providing exceptional healthcare services to the community of Drenas and beyond. Our state-of-the-art facility combines modern medical technology with compassionate care to ensure the best possible outcomes for our patients. We are proud to serve the people of Kosovo with a diverse team of medical professionals, including many talented Albanian doctors who understand the local culture and healthcare needs.
             </p>
             <div className="mt-8">
               <div className="flex items-center">

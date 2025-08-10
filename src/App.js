@@ -12,6 +12,11 @@ import Contact from './pages/Contact';
 import Appointment from './pages/Appointment';
 import NotFound from './pages/NotFound';
 import AdminDashboard from './pages/AdminDashboard';
+import GeneralMedicine from './pages/services/GeneralMedicine';
+import Cardiology from './pages/services/Cardiology';
+import Pediatrics from './pages/services/Pediatrics';
+import Orthopedics from './pages/services/Orthopedics';
+import Dermatology from './pages/services/Dermatology';
 
 function App() {
   return (
@@ -24,6 +29,11 @@ function App() {
               <Route path="/" element={<Home />} />
               <Route path="/about" element={<About />} />
               <Route path="/services" element={<Services />} />
+              <Route path="/services/general" element={<GeneralMedicine />} />
+              <Route path="/services/cardiology" element={<Cardiology />} />
+              <Route path="/services/pediatrics" element={<Pediatrics />} />
+              <Route path="/services/orthopedics" element={<Orthopedics />} />
+              <Route path="/services/dermatology" element={<Dermatology />} />
               <Route path="/departments" element={<Departments />} />
               <Route path="/doctors" element={<Doctors />} />
               <Route path="/contact" element={<Contact />} />

@@ -10,9 +10,10 @@ const Doctors = () => {
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">Our Doctors</h1>
           <p className="text-xl text-gray-600">Meet our team of experienced medical professionals</p>
+          <p className="text-sm text-gray-500 mt-2">Total Doctors: {doctors.length}</p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {doctors.map((doctor) => (
             <div
               key={doctor.id}

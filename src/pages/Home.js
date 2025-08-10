@@ -11,7 +11,7 @@ const Home = () => {
 
   const stats = [
     { number: '25+', label: 'Years of Experience' },
-    { number: '50+', label: 'Specialized Doctors' },
+    { number: '16+', label: 'Specialized Doctors' },
     { number: '10000+', label: 'Happy Patients' },
     { number: '24/7', label: 'Emergency Care' }
   ];
