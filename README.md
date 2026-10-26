@@ -1,6 +1,6 @@
 # Poli Klinika Drenas Website
 
-A modern website for a Poliklinik. Built with React and Tailwind CSS.
+A responsive website for Poli Klinika Drenas, built with React and Tailwind CSS.
 
 ## Features
 
@@ -59,42 +59,23 @@ The build files will be created in the `build` directory.
 ## Project Structure
 
 ```
-poliklinika/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.js
-│   │   ├── Hero.js
-│   │   ├── Services.js
-│   │   ├── About.js
-│   │   ├── Doctors.js
-│   │   ├── Contact.js
-│   │   └── Footer.js
-│   ├── App.js
-│   └── index.js
-├── package.json
-├── tailwind.config.js
-└── README.md
+src/
+├── components/
+├── context/
+├── pages/
+│   └── services/
+├── App.js
+└── index.js
+public/
+package.json
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
 For any questions or concerns, please contact us at Ilazgashi258@gmail.com 
 
-## Deploy
+## Deployment
 
-https://poliklinikaa.netlify.app/
-username: admin 
-password: admin
+Preview: [poliklinikaa.netlify.app](https://poliklinikaa.netlify.app/)
+
+Admin credentials are not published here. Use unique credentials for local development and rotate them before exposing any deployment.
